@@ -1,0 +1,18 @@
+{
+  "password_reset": {
+    "problem": "Customer forgot password",
+    "solution": "Use the Forgot Password option and reset the password through the registered email."
+  },
+  "payment_failed": {
+    "problem": "Payment failed",
+    "solution": "Check internet connection, verify payment details, and retry the transaction."
+  },
+  "order_delayed": {
+    "problem": "Order is delayed",
+    "solution": "Check the order tracking status and contact delivery support if necessary."
+  },
+  "account_locked": {
+    "problem": "Customer account is locked",
+    "solution": "Verify customer identity and unlock the account through the support system."
+  }
+}
