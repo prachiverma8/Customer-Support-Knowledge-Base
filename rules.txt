@@ -1,0 +1,17 @@
+CUSTOMER SUPPORT KNOWLEDGE BASE RULES
+
+Rule 1:
+IF customer forgot password
+THEN recommend password reset through registered email.
+
+Rule 2:
+IF payment failed
+THEN check payment details and retry the transaction.
+
+Rule 3:
+IF order is delayed
+THEN check order tracking and contact delivery support.
+
+Rule 4:
+IF account is locked
+THEN verify customer identity and unlock the account.
